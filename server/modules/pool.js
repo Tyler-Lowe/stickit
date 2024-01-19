@@ -30,9 +30,9 @@ if (process.env.DATABASE_URL) {
 // also running on our computer (localhost)
 else {
   pool = new pg.Pool({
-    host: 'localhost',
+    host: 'ec2-35-169-9-79.compute-1.amazonaws.com',
     port: 5432,
-    database: 'stick_it', // 	💥 Change this to the name of your database!
+    database: 'd3tj16ph2o82o8', // 	💥 Change this to the name of your database!
   });
 }
 
