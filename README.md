@@ -1,4 +1,9 @@
 # Stickit
+Check it out here!
+!!!!!!!!!!!
+[Click here to visit Stickit](https://stickit-b5a16042fa87.herokuapp.com/#/home)
+
+
 
 A mobile and web application that offers drum set players a curated list of exercises based on their focus areas, goals, and time constraints, eliminating the problem of deciding what to practice.
 This curated list is called a “Smart Session”
