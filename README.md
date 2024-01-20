@@ -1,6 +1,6 @@
 # Stickit
 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
-[Click here to visit Stickit](https://stickit-b5a16042fa87.herokuapp.com/#/home)
+[Click here to visit Stickit](https://stickit-b5a16042fa87.herokuapp.com/#/login)
 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
 
 
